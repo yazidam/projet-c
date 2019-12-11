@@ -1,0 +1,6 @@
+range_rover1 land_rover 300 1 1 2019
+lamborghini_gallardo lamborghini 1200 1 1 2019
+lamborghini_gallardo lamborghini 1200 2 1 2019
+lamborghini_gallardo lamborghini 1200 3 1 2019
+lamborghini_gallardo lamborghini 1200 4 1 2019
+lamborghini_gallardo lamborghini 1200 5 1 2019
